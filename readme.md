@@ -1,4 +1,5 @@
-#
+# introdução
+https://medium.com/@brunohashimoto/kubernetes-para-iniciantes-434b845f6d3f
 
 # Load balance
 kubectl port-forward svc/nginx-service 8080:80
